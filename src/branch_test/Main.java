@@ -12,6 +12,8 @@ public class Main {
            System.out.println("stay1 YOUNGHOON");
            System.out.println("sdfjaklsdjfklasd");
            System.out.println("마스터브랜치ㅣㅣㅣㅣㅣㅣ");
+           System.out.println("마스터브랜치ㅣㅣㅣㅣㅣㅣ");
+
     }
 
 }
